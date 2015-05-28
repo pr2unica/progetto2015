@@ -1,2 +1,2 @@
-# progetto2015pr2
-Un esempio di progetto con funzione semplice e complessa
+# Progetto2015
+Un esempio semplificato di progetto con implementazione di funzione semplice e complessa. 
